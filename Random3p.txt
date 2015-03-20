@@ -1,0 +1,50 @@
+stratPlacing: 
+Overtake 3
+All 2.125
+Self 1.66666666666667
+Highest 1.66666666666667
+stratMovesLeft: 
+Overtake 3
+All 1.25
+Self 1
+Highest 0.333333333333333
+Ranks
+Key: Overtake
+3 
+Key: All
+2 
+3 
+3 
+1 
+3 
+2 
+1 
+2 
+Key: Self
+2 
+2 
+1 
+Key: Highest
+1 
+1 
+3 
+Movings
+Key: Overtake
+3 
+Key: All
+1 
+3 
+2 
+0 
+2 
+1 
+0 
+1 
+Key: Self
+1 
+2 
+0 
+Key: Highest
+0 
+0 
+1 
